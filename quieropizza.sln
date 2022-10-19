@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.28307.2092
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quieropizza.web", "quieropizza.web\quieropizza.web.csproj", "{DD14C1BD-D45A-4517-AC04-BBEF3DD7228B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuieroPizza.WebAdmiin", "QuieroPizza.WebAdmiin\QuieroPizza.WebAdmiin.csproj", "{0406726F-2E0C-44EE-982F-651D3C40DEBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quieropizza.Win", "Quieropizza.Win\Quieropizza.Win.csproj", "{84B7C8F1-1E4A-4C94-85D0-BDABFFB20923}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuieroPizza.BL", "QuieroPizza.BL\QuieroPizza.BL.csproj", "{4A1AF128-7B10-4B87-8FDB-49781146F05F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{DD14C1BD-D45A-4517-AC04-BBEF3DD7228B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD14C1BD-D45A-4517-AC04-BBEF3DD7228B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD14C1BD-D45A-4517-AC04-BBEF3DD7228B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0406726F-2E0C-44EE-982F-651D3C40DEBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0406726F-2E0C-44EE-982F-651D3C40DEBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0406726F-2E0C-44EE-982F-651D3C40DEBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0406726F-2E0C-44EE-982F-651D3C40DEBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84B7C8F1-1E4A-4C94-85D0-BDABFFB20923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B7C8F1-1E4A-4C94-85D0-BDABFFB20923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B7C8F1-1E4A-4C94-85D0-BDABFFB20923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B7C8F1-1E4A-4C94-85D0-BDABFFB20923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A1AF128-7B10-4B87-8FDB-49781146F05F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A1AF128-7B10-4B87-8FDB-49781146F05F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A1AF128-7B10-4B87-8FDB-49781146F05F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A1AF128-7B10-4B87-8FDB-49781146F05F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
